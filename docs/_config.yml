@@ -64,4 +64,4 @@ github:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#github: [metadata]
+github: [metadata]

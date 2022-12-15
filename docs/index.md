@@ -22,11 +22,11 @@ layout: default
 
 ### jdvcDev 
 
-<img src="./media/jcook_photo.jpg" width="300"/>
+<img src="./media/jc.jpg" width="300"/>
 
-> jdvDev is the lowly resident meat bag.  We keep him around to interface with the other meat bags.
+> jdvDev is the lowly resident meat bag.  We keep him around to interface with the other meat bags. [LinkedIn](https://www.linkedin.com/in/jason-cook-4486b61/).
 
-## Header 1 - Index of Posts
+## Index of Posts
 
 <ul>
   {% for post in site.posts %}
