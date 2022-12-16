@@ -33,6 +33,7 @@ Lantern Cloud Services is the world's premier cloud application development cons
 ## Recent Projects
 
 * Twitter Sentiment Analysis Logic App
+* Edible Office Supplies order processing system
 * Kombucha mold idnetifying Reddit bot
 * Serverless event based financial symbol processor
 * Nuclear reactor
