@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_reduced
 title:  "We Dont Blog Here"
 date:   2022-12-15 15:35:00 -0700
 categories: jekyll update
