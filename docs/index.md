@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: reduced
 ---
-Lantern Cloud Services is the world's premier cloud application development consulting firm.  We build high speed, scalable, innovative cloud solutions for cutting edge technical problems, including high transactional microservice event driven architectures, nuclear fusion and twitter chat bots.  
+Lantern Cloud Services is the world's premier cloud application development consulting firm.  We build high speed, scalable, innovative cloud solutions for cutting edge technical problems, including high transactional microservice event driven architectures, nuclear fusion reactors and twitter bots.  
 
 # Meet the team
 
@@ -32,11 +32,11 @@ Lantern Cloud Services is the world's premier cloud application development cons
 
 ## Recent Projects
 
-* Twitter Sentiment Analysis Logic App
+* [Twitter Sentiment Analysis Bot](./pages/twitterbot.html).
 * Edible Office Supplies order processing system
 * Kombucha mold idnetifying Reddit bot
 * Serverless event based financial symbol processor
-* Nuclear reactor
+* Nuclear fusion reactor
 
 ## Index of Posts
 
