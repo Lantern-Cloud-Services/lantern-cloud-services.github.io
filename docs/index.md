@@ -19,7 +19,7 @@ Lantern Cloud Services is the world's premier cloud application development cons
   <blockquote>
     <p>Bender is our glorious leader, presedent and CEO, responsible for the day to day operations here at Lantern Cloud Services.</p>
 
-    <p>Without him all is lost. <a href="mailto:bender@lanterncloudservices.com">Email</a></p>
+    <p>Without him all is lost. <a href="mailto:bender@lanterncloudservices.com">Email</a> <a href="https://twitter.com/LCSbender">Twitter</a></p>
   </blockquote>
   </td>
   <td>
