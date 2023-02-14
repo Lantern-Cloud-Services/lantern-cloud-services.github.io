@@ -30,6 +30,11 @@ Lantern Cloud Services is the world's premier cloud application development cons
 </tr>
 </table>
 
+## LCS Operations
+* [API Development Portal](https://dev.lanterncloudservices.com/)
+* [Grafana Dashboards](http://grafana.lanterncloudservices.com/)
+* [GitHub](https://github.com/Lantern-Cloud-Services)
+
 ## Recent Projects
 
 * [Twitter Sentiment Analysis Bot](./pages/twitterbot.html).
